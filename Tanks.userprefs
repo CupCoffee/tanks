@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EA8AEEE5-3AC3-4F54-F2DE-7021B53AFF4D}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Camera/FollowPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/World/WorldGenerator.cs" Line="52" Column="17" />
+      <File FileName="Assets/Scripts/Player/PlayerMovement.cs" Line="8" Column="28" />
+      <File FileName="Assets/Scripts/Camera/FollowPlayer.cs" Line="7" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tanks PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
